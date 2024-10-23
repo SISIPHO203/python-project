@@ -1,6 +1,5 @@
 # python-project
-# sisiphodata-anaslysis
-# data-analysis
+
 In this project, we analyze a dataset containing information about various cars, focusing on attributes such as brand, year, price, and other relevant features. The goal was to clean, manipulate, and explore the dataset to derive insights, supported by visualizations. This report summarizes the data analysis process and key findings.
 
 # Data loading
