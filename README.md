@@ -26,14 +26,14 @@ Ensured that the year column is an integer, and the price column is a float.
  # Data Exploration
 Descriptive Statistics:
 
-The average car price is $20,000.
+The average car price is R20,000.
 Cars from 2020 and later have a higher average price than older models.
 Brands like BMW and Audi tend to have higher average price
 
 # Data Visualization
  Distribution of Car Prices
 The histogram  shows the price distribution.
-Most cars are priced between $15,000 and $25,000.
+Most cars are priced between R15,000 and R25,000.
 
 # Scatter Plot
 Observed a positive correlation between newer models and higher prices.
